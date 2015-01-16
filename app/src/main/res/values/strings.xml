@@ -4,5 +4,17 @@
     <string name="app_name">AnimatedAccordion</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="section_1">Section 1</string>
+    <string name="section_2">Section 2</string>
+    <string name="section_3">Section 3</string>
+    <string name="item_11">Item 11</string>
+    <string name="item_12">Item 12</string>
+    <string name="item_13">Item 13</string>
+    <string name="item_21">Item 21</string>
+    <string name="item_22">Item 22</string>
+    <string name="item_23">Item 23</string>
+    <string name="item_31">Item 31</string>
+    <string name="item_32">Item 32</string>
+    <string name="item_33">Item 33</string>
 
 </resources>
